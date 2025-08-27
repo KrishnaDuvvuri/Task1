@@ -1,0 +1,4 @@
+There are 3 types of communication used by computers:
+Simplex - unidirectional way of communication where on edevice is sender and another is the receiver.
+Half Dulpex - bidirectional way of communication where both devices can be the sender and receiver but not at the same time.
+Full Duplex - bidirectional way of communication where both devices can be the sender and receiver simultaneously.

@@ -1,0 +1,5 @@
+In python, a variable can be used to store any value. This value can be of type numeric, string, boolean etc.
+Example:
+a=10
+b='Python'
+c=False
