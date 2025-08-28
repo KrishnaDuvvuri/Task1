@@ -1,0 +1,19 @@
+Question 10
+In Python, a variable must be declared before assigning a value to it.
+This statement is False
+
+Question 11
+Option D: x=100 is the correct way of assigning a value to a variable
+
+Question 12
+Age, home_address and route66 are correct Python variable names whereas 
+ver1.3, return and 4square are improper ways of creating Python variables
+
+Question 13
+employeenumber, EmployeeNumber and employeeNumber refer to different variables.
+
+Question 14
+Option C: x=10,y='Hello',z=True would give a syntax error
+
+Question 15
+5 * 2 ** 10 = 5120
